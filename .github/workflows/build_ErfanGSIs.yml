@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://download.h2os.com/5T/MP/OnePlus5THydrogen_43_OTA_064_all_2009080056_338a836209c54a7e.zip
+  ROM_URL: http://bigota.d.miui.com/V12.0.6.0.QJACNXM/cmi_images_V12.0.6.0.QJACNXM_20200911.0000.00_10.0_cn_chinatelecom_cb5d2fb19a.tgz
   ROM_NAME: OxygenOS
   TZ: Asia/Shanghai
 
