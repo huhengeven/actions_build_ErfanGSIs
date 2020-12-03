@@ -15,7 +15,7 @@ on:
     
 env:
   ROM_URL: http://bigota.d.miui.com/V12.0.6.0.QJACNXM/cmi_images_V12.0.6.0.QJACNXM_20200911.0000.00_10.0_cn_chinatelecom_cb5d2fb19a.tgz
-  ROM_NAME: OxygenOS
+  ROM_NAME: MIUI
   TZ: Asia/Shanghai
 
 jobs:
